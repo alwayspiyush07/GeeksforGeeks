@@ -7,3 +7,4 @@
 | 5 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 22 Aug 2026 | 04:09 am |
 | 6 | [Longest Substring with K Uniques](./GeeksForGeeks/Medium/Longest%20Substring%20with%20K%20Uniques) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | Medium | 23 Aug 2026 | 02:57 am |
 | 7 | [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) | [LeetCode](https://leetcode.com/problems/fruit-into-baskets/) | Medium | 24 Aug 2026 | 11:33 pm |
+| 8 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 25 Aug 2026 | 02:25 am |
