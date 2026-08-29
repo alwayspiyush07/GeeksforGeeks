@@ -10,3 +10,4 @@
 | 8 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 25 Aug 2026 | 02:25 am |
 | 9 | [Longest Repeating Character Replacement](./LeetCode/Medium/Longest%20Repeating%20Character%20Replacement) | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 26 Aug 2026 | 10:35 pm |
 | 10 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 28 Aug 2026 | 08:07 pm |
+| 11 | [Maximum Count of Positive Integer and Negative Integer](./LeetCode/Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) | [LeetCode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | 29 Aug 2026 | 07:40 am |
