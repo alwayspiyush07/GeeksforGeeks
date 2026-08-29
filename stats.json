@@ -1,12 +1,12 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -22,7 +22,8 @@
     "LeetCode_Longest_Repeating_Character_Replacement": true,
     "LeetCode_Kth_Missing_Positive_Number": true,
     "LeetCode_Maximum_Count_of_Positive_Integer_and_Negative_Integer": true,
-    "LeetCode_Count_Negative_Numbers_in_a_Sorted_Matrix": true
+    "LeetCode_Count_Negative_Numbers_in_a_Sorted_Matrix": true,
+    "LeetCode_Pow(x,_n)": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -34,10 +35,11 @@
     "2026-08-25": 1,
     "2026-08-26": 1,
     "2026-08-28": 1,
-    "2026-08-29": 2
+    "2026-08-29": 3
   },
   "todayProblems": [
     "Maximum Count of Positive Integer and Negative Integer",
-    "Count Negative Numbers in a Sorted Matrix"
+    "Count Negative Numbers in a Sorted Matrix",
+    "Pow(x, n)"
   ]
 }

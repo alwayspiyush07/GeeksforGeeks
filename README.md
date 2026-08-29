@@ -12,3 +12,4 @@
 | 10 | [Kth Missing Positive Number](./LeetCode/Easy/Kth%20Missing%20Positive%20Number) | [LeetCode](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | 28 Aug 2026 | 08:07 pm |
 | 11 | [Maximum Count of Positive Integer and Negative Integer](./LeetCode/Easy/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer) | [LeetCode](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | Easy | 29 Aug 2026 | 07:40 am |
 | 12 | [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | 29 Aug 2026 | 07:48 am |
+| 13 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 29 Aug 2026 | 04:51 pm |
