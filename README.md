@@ -14,3 +14,4 @@
 | 12 | [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) | [LeetCode](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | 29 Aug 2026 | 07:48 am |
 | 13 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 29 Aug 2026 | 04:51 pm |
 | 14 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 30 Aug 2026 | 10:30 pm |
+| 15 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 31 Aug 2026 | 03:33 pm |

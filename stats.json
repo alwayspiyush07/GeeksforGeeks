@@ -1,11 +1,11 @@
 {
-  "totalSolved": 14,
-  "currentStreak": 3,
+  "totalSolved": 15,
+  "currentStreak": 4,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-30",
+  "lastSyncDate": "2026-08-31",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 10,
     "hard": 0,
     "basic": 0
@@ -24,7 +24,8 @@
     "LeetCode_Maximum_Count_of_Positive_Integer_and_Negative_Integer": true,
     "LeetCode_Count_Negative_Numbers_in_a_Sorted_Matrix": true,
     "LeetCode_Pow(x,_n)": true,
-    "LeetCode_Count_Primes": true
+    "LeetCode_Count_Primes": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -37,9 +38,10 @@
     "2026-08-26": 1,
     "2026-08-28": 1,
     "2026-08-29": 3,
-    "2026-08-30": 1
+    "2026-08-30": 1,
+    "2026-08-31": 1
   },
   "todayProblems": [
-    "Count Primes"
+    "Two Sum"
   ]
 }
