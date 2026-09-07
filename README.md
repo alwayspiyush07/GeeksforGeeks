@@ -18,3 +18,4 @@
 | 16 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 31 Aug 2026 | 03:42 pm |
 | 17 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 01 Sept 2026 | 08:34 pm |
 | 18 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 11:50 pm |
+| 19 | [Count Elements With Maximum Frequency](./LeetCode/Easy/Count%20Elements%20With%20Maximum%20Frequency) | [LeetCode](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | 08 Sept 2026 | 01:01 am |
