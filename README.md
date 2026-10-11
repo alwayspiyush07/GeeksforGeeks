@@ -19,3 +19,4 @@
 | 17 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 01 Sept 2026 | 08:34 pm |
 | 18 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 11:50 pm |
 | 19 | [Count Elements With Maximum Frequency](./LeetCode/Easy/Count%20Elements%20With%20Maximum%20Frequency) | [LeetCode](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | Easy | 08 Sept 2026 | 01:01 am |
+| 20 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 05:35 pm |
