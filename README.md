@@ -24,3 +24,4 @@
 | 22 | [Maximum Alternating Sum of Squares](./LeetCode/Medium/Maximum%20Alternating%20Sum%20of%20Squares) | [LeetCode](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | 13 Oct 2026 | 03:39 pm |
 | 23 | [Subarrays Distinct Element Sum of Squares II](./LeetCode/Hard/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | 16 Oct 2026 | 06:35 pm |
 | 24 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 17 Oct 2026 | 09:27 pm |
+| 25 | [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | Easy | 18 Oct 2026 | 03:02 am |
