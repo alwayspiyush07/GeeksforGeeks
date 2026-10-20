@@ -28,3 +28,4 @@
 | 26 | [Number of Ways to Reorder Array to Get Same BST](./LeetCode/Hard/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 18 Oct 2026 | 09:42 pm |
 | 27 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 10:24 pm |
 | 28 | [Add Two Integers](./LeetCode/Easy/Add%20Two%20Integers) | [LeetCode](https://leetcode.com/problems/add-two-integers/) | Easy | 20 Oct 2026 | 03:45 am |
+| 29 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 08:27 pm |

@@ -1,13 +1,13 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 5,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
     "medium": 12,
-    "hard": 3,
+    "hard": 4,
     "basic": 0
   },
   "syncedProblems": {
@@ -39,7 +39,8 @@
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
-    "LeetCode_Add_Two_Integers": true
+    "LeetCode_Add_Two_Integers": true,
+    "LeetCode_Sum_of_Sortable_Integers": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -65,9 +66,10 @@
     "2026-10-17": 1,
     "2026-10-18": 2,
     "2026-10-19": 1,
-    "2026-10-20": 1
+    "2026-10-20": 2
   },
   "todayProblems": [
-    "Add Two Integers"
+    "Add Two Integers",
+    "Sum of Sortable Integers"
   ]
 }
