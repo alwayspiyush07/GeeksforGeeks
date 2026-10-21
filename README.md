@@ -32,3 +32,4 @@
 | 30 | [Linked List Cycle II](./LeetCode/Medium/Linked%20List%20Cycle%20II) | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | 20 Oct 2026 | 09:20 pm |
 | 31 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 20 Oct 2026 | 09:45 pm |
 | 32 | [Traffic Signal Color](./LeetCode/Easy/Traffic%20Signal%20Color) | [LeetCode](https://leetcode.com/problems/traffic-signal-color/) | Easy | 21 Oct 2026 | 12:16 am |
+| 33 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 08:51 pm |

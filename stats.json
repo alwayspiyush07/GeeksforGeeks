@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 13,
+    "medium": 14,
     "hard": 4,
     "basic": 0
   },
@@ -43,7 +43,8 @@
     "LeetCode_Sum_of_Sortable_Integers": true,
     "LeetCode_Linked_List_Cycle_II": true,
     "LeetCode_Middle_of_the_Linked_List": true,
-    "LeetCode_Traffic_Signal_Color": true
+    "LeetCode_Traffic_Signal_Color": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -70,9 +71,10 @@
     "2026-10-18": 2,
     "2026-10-19": 1,
     "2026-10-20": 4,
-    "2026-10-21": 1
+    "2026-10-21": 2
   },
   "todayProblems": [
-    "Traffic Signal Color"
+    "Traffic Signal Color",
+    "Minimum Operations to Sort a String"
   ]
 }
