@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-10-22",
+  "totalSolved": 36,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-10-23",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 15,
+    "medium": 16,
     "hard": 4,
     "basic": 0
   },
@@ -45,7 +45,8 @@
     "LeetCode_Middle_of_the_Linked_List": true,
     "LeetCode_Traffic_Signal_Color": true,
     "LeetCode_Minimum_Operations_to_Sort_a_String": true,
-    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true
+    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true,
+    "LeetCode_Find_the_Duplicate_Number": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -73,9 +74,10 @@
     "2026-10-19": 1,
     "2026-10-20": 4,
     "2026-10-21": 2,
-    "2026-10-22": 1
+    "2026-10-22": 1,
+    "2026-10-23": 1
   },
   "todayProblems": [
-    "Minimum Operations to Sort a Permutation"
+    "Find the Duplicate Number"
   ]
 }
