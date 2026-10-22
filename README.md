@@ -35,3 +35,4 @@
 | 33 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 08:51 pm |
 | 34 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 10:34 pm |
 | 35 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 23 Oct 2026 | 04:18 am |
+| 36 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 23 Oct 2026 | 04:42 am |
