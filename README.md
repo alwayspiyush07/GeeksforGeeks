@@ -41,3 +41,4 @@
 | 39 | [Number of Closed Islands](./LeetCode/Medium/Number%20of%20Closed%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | Medium | 25 Oct 2026 | 10:27 pm |
 | 40 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 10:50 pm |
 | 41 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 09:26 pm |
+| 42 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 07:30 pm |
