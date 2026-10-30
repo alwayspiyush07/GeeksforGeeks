@@ -43,3 +43,4 @@
 | 41 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 09:26 pm |
 | 42 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 07:30 pm |
 | 43 | [Palindromic Path Queries in a Tree](./LeetCode/Hard/Palindromic%20Path%20Queries%20in%20a%20Tree) | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | 29 Oct 2026 | 11:13 pm |
+| 44 | [Shortest Path With At Most K Consecutive Identical Characters](./LeetCode/Medium/Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 30 Oct 2026 | 11:47 pm |
