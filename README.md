@@ -45,3 +45,4 @@
 | 43 | [Palindromic Path Queries in a Tree](./LeetCode/Hard/Palindromic%20Path%20Queries%20in%20a%20Tree) | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | 29 Oct 2026 | 11:13 pm |
 | 44 | [Shortest Path With At Most K Consecutive Identical Characters](./LeetCode/Medium/Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters) | [LeetCode](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | 30 Oct 2026 | 11:47 pm |
 | 45 | [Twisted Mirror Path Count](./LeetCode/Medium/Twisted%20Mirror%20Path%20Count) | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium | 31 Oct 2026 | 09:01 pm |
+| 46 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 01 Nov 2026 | 07:27 pm |
