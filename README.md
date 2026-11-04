@@ -47,3 +47,4 @@
 | 45 | [Twisted Mirror Path Count](./LeetCode/Medium/Twisted%20Mirror%20Path%20Count) | [LeetCode](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium | 31 Oct 2026 | 09:01 pm |
 | 46 | [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | 01 Nov 2026 | 07:27 pm |
 | 47 | [Minimum Moves to Equal Array Elements II](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | 02 Nov 2026 | 10:25 pm |
+| 48 | [Minimum Operations to Make Elements Within K Subarrays Equal](./LeetCode/Hard/Minimum%20Operations%20to%20Make%20Elements%20Within%20K%20Subarrays%20Equal) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | 04 Nov 2026 | 10:41 pm |
