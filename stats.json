@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 2,
+  "totalSolved": 51,
+  "currentStreak": 3,
   "maxStreak": 18,
-  "lastSyncDate": "2026-11-05",
+  "lastSyncDate": "2026-11-06",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 24,
+    "medium": 25,
     "hard": 6,
     "basic": 0
   },
@@ -60,7 +60,8 @@
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "LeetCode_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal": true,
-    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
+    "LeetCode_Count_Zero_Request_Servers": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -101,9 +102,10 @@
     "2026-11-01": 1,
     "2026-11-02": 1,
     "2026-11-04": 1,
-    "2026-11-05": 1
+    "2026-11-05": 1,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "Find the Distance Value Between Two Arrays"
+    "Count Zero Request Servers"
   ]
 }
