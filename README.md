@@ -57,3 +57,4 @@
 | 55 | [Count Non-Decreasing Subarrays After K Operations](./LeetCode/Hard/Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) | [LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard | 14 Nov 2026 | 12:13 am |
 | 56 | [Minimum Positive Sum Subarray ](./LeetCode/Easy/Minimum%20Positive%20Sum%20Subarray%20) | [LeetCode](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | 15 Nov 2026 | 12:43 am |
 | 57 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 10:47 pm |
+| 58 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 11:54 pm |
