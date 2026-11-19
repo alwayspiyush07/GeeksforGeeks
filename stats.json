@@ -1,12 +1,12 @@
 {
-  "totalSolved": 61,
-  "currentStreak": 5,
+  "totalSolved": 62,
+  "currentStreak": 6,
   "maxStreak": 18,
-  "lastSyncDate": "2026-11-18",
+  "lastSyncDate": "2026-11-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 29,
+    "medium": 30,
     "hard": 9,
     "basic": 0
   },
@@ -71,7 +71,8 @@
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
     "LeetCode_Calculate_Digit_Sum_of_a_String": true,
     "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
-    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true
+    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -122,9 +123,10 @@
     "2026-11-15": 2,
     "2026-11-16": 1,
     "2026-11-17": 1,
-    "2026-11-18": 1
+    "2026-11-18": 1,
+    "2026-11-19": 1
   },
   "todayProblems": [
-    "Minimum Number of Changes to Make Binary String Beautiful"
+    "Minimum Score by Changing Two Elements"
   ]
 }
