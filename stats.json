@@ -1,12 +1,12 @@
 {
-  "totalSolved": 63,
-  "currentStreak": 7,
+  "totalSolved": 64,
+  "currentStreak": 8,
   "maxStreak": 18,
-  "lastSyncDate": "2026-11-20",
+  "lastSyncDate": "2026-11-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 30,
+    "medium": 31,
     "hard": 10,
     "basic": 0
   },
@@ -73,7 +73,8 @@
     "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
     "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
-    "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true
+    "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
+    "LeetCode_Find_Subtree_Sizes_After_Changes": true
   },
   "activityHistory": {
     "2026-08-15": 1,
@@ -126,9 +127,10 @@
     "2026-11-17": 1,
     "2026-11-18": 1,
     "2026-11-19": 1,
-    "2026-11-20": 1
+    "2026-11-20": 1,
+    "2026-11-21": 1
   },
   "todayProblems": [
-    "Maximize Consecutive Elements in an Array After Modification"
+    "Find Subtree Sizes After Changes"
   ]
 }
