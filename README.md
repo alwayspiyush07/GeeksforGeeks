@@ -65,3 +65,4 @@
 | 63 | [Find Subtree Sizes After Changes](./LeetCode/Medium/Find%20Subtree%20Sizes%20After%20Changes) | [LeetCode](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium | 21 Nov 2026 | 11:44 pm |
 | 64 | [Check if All A's Appears Before All B's](./LeetCode/Easy/Check%20if%20All%20A's%20Appears%20Before%20All%20B's) | [LeetCode](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Easy | 22 Nov 2026 | 10:32 pm |
 | 65 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 11:28 pm |
+| 66 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 11:55 pm |
